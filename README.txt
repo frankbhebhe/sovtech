@@ -24,6 +24,9 @@
 
 ## Mobile responsive.
 
+# Link for the website zip file below
+
+https://drive.google.com/file/d/1zACe_atWskepW0qSg3QaCTzslJL26MAX/view?usp=sharing
 
 
 

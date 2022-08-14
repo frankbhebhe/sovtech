@@ -22,6 +22,8 @@
 
 # All plugins are up to date for the website security.
 
+## Mobile responsive.
+
 
 
 

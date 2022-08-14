@@ -18,7 +18,7 @@
 
 # Memory limit 256mb to support all the elements used.
 
-# Wordpress version 6.0.1 Latest version.
+# WordPress version 6.0.1 Latest version.
 
 # All plugins are up to date for the website security.
 
